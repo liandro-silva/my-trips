@@ -18,8 +18,3 @@ This project was developed using the following technologies:
 - [TypeScript](https://www.typescriptlang.org/)
 - [GraphQL](https://graphql.org/)
 - [Leaflet](https://leafletjs.com/)
-
-## 🔥 Preview
-
-[![Deploy with Vercel](https://vercel.com/button)](https://my-trips.rcarrenho.com.br/)
-
